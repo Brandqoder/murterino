@@ -2,10 +2,10 @@ import { useState, useEffect, useRef } from 'react'
 import ContactModal from './ContactModal'
 
 const images = [
-  '/assets/Murterino-1.png',
-  '/assets/Murterino-2.png',
-  '/assets/Murterino-3.png',
-  '/assets/Murterino-4.png',
+  `${import.meta.env.BASE_URL}assets/Murterino-1.png`,
+  `${import.meta.env.BASE_URL}assets/Murterino-2.png`,
+  `${import.meta.env.BASE_URL}assets/Murterino-3.png`,
+  `${import.meta.env.BASE_URL}assets/Murterino-4.png`,
 ]
 
 export default function App() {
