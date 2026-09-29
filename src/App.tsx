@@ -6,9 +6,6 @@ const images = [
   '/assets/Murterino-2.png',
   '/assets/Murterino-3.png',
   '/assets/Murterino-4.png',
-  <!-- 'https://images.unsplash.com/photo-1781593024459-9d81d1c46a19?w=1920&h=1080&fit=crop&auto=format',
-  'https://images.unsplash.com/photo-1634226951673-f7202dbad8f1?w=1920&h=1080&fit=crop&auto=format',
-  'https://images.unsplash.com/photo-1775153014048-b39155fa1ec8?w=1920&h=1080&fit=crop&auto=format', -->
 ]
 
 export default function App() {
